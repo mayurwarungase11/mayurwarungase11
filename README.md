@@ -13,7 +13,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-shefalichaudhary649-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shefalichaudhary649@gmail.com)
 &nbsp;
-[![GitHub](https://github.com/mayurwarungase11)
+[![GitHub](https://img.shields.io/badge/GitHub-Mayur%20Warungase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayurwarungase11)
 
 <br/>
 
