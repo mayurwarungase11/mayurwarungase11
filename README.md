@@ -9,9 +9,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shefali%20Chaudhary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shefali-chaudhary-00554b1ba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayur%20Warungase-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-warungase-038b46402/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-shefalichaudhary649-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shefalichaudhary649@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-mayurkwarungase-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurkwarungase@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Mayur%20Warungase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayurwarungase11)
 
