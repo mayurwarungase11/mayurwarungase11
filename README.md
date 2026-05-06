@@ -51,3 +51,26 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shefalihub&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=22d3ee&title_color=22d3ee&icon_color=38bdf8&text_color=8b949e&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="158"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefalihub&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=22d3ee&title_color=22d3ee&text_color=8b949e&hide_border=false&langs_count=6" height="158"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shefalihub&theme=tokyonight&background=0d1117&border=22d3ee&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee&sideLabels=8b949e&dates=4d5566&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+---
