@@ -1,30 +1,65 @@
 # 💫 About Me:
-<br>     My name is Mayur Warungase, and I am from Nashik. I have completed my Bachelor’s degree in Science from Pune University and have 6 months of experience as a DevOps Intern. I have a strong foundation in Linux, including user management, file permissions, process management, cron jobs, and file editing with Vim. I have hands-on experience with AWS core services such as EC2, VPC, IAM, S3, RDS, Route 53, Lambda, CloudWatch, EFS, and CloudFront. I have also worked with tools like Git and GitHub for version control, Docker for containerization, Kubernetes for orchestration, Terraform for infrastructure automation, Jenkins for CI/CD pipelines, and Datadog for monitoring and observability. I am passionate about building efficient, automated, and scalable systems, and I enjoy learning new technologies and applying best practices to improve system reliability.
+
+<br> My name is Mayur Warungase, and I am from Nashik. I have completed my Bachelor’s degree in Science from Pune University and have 6 months of experience as a DevOps Intern. I have a strong foundation in Linux, including user management, file permissions, process management, cron jobs, and file editing with Vim. I have hands-on experience with AWS core services such as EC2, VPC, IAM, S3, RDS, Route 53, Lambda, CloudWatch, EFS, and CloudFront. I have also worked with tools like Git and GitHub for version control, Docker for containerization, Kubernetes for orchestration, Terraform for infrastructure automation, Jenkins for CI/CD pipelines, and Datadog for monitoring and observability. I am passionate about building efficient, automated, and scalable systems, and I enjoy learning new technologies and applying best practices to improve system reliability.
 
 ---
-
 
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-| ☁️ Cloud & Orchestration | ⚙️ Infrastructure as Code | 🔄 CI/CD & GitOps |
-|:---:|:---:|:---:|
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GHA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) |
+|                                                                                                                                                                                                      ☁️ Cloud & Orchestration                                                                                                                                                                                                     |                                                                                                                                                                ⚙️ Infrastructure as Code                                                                                                                                                               |                                                                                                                                                                                                                🔄 CI/CD & GitOps                                                                                                                                                                                                                |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white) ![GHA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white) |
 
-| 📊 Observability | 🐳 Containers & Mesh | 🔐 Security |
-|:---:|:---:|:---:|
-| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
+|                                                                                                        📊 Observability                                                                                                        |                                                                                                                                                        🐳 Containers & Mesh                                                                                                                                                       |                                                                                        🔐 Security                                                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge\&logo=podman\&logoColor=white) ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white) | ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white) |
 
 </div>
 
 <div align="center">
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnu-bash\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
+
+<tr>
+<td>🏦 <a href="https://github.com/mayurwarungase11/Springboot-BankApp">Spring Boot Bank App</a></td>
+<td>Banking management application with account creation, transactions, deposits, withdrawals and balance tracking.</td>
+<td>Spring Boot • Java • MySQL</td>
+</tr>
+
+<tr>
+<td>🛍️ <a href="https://github.com/mayurwarungase11/Project-Myntra-Clone">Myntra Clone</a></td>
+<td>Responsive e-commerce frontend inspired by Myntra with product listings and shopping workflow.</td>
+<td>HTML • CSS • JavaScript</td>
+</tr>
+
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mayurwarungase11&theme=tokyonight"/>
 
 </div>
 
@@ -40,37 +75,14 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Mayur%20Warungase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayurwarungase11)
 
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=mayurwarungase11&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwarungase11&theme=dark&hide_border=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=durgesh-kshirsagar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=mayurwarungase11&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shefalihub&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=22d3ee&title_color=22d3ee&icon_color=38bdf8&text_color=8b949e&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="158"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefalihub&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=22d3ee&title_color=22d3ee&text_color=8b949e&hide_border=false&langs_count=6" height="158"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shefalihub&theme=tokyonight&background=0d1117&border=22d3ee&ring=22d3ee&fire=38bdf8&currStreakLabel=22d3ee&sideLabels=8b949e&dates=4d5566&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
----
