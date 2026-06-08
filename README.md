@@ -40,15 +40,15 @@
 </tr>
 
 <tr>
-<td>🏦 <a href="https://github.com/mayurwarungase11/Springboot-BankApp">Spring Boot Bank App</a></td>
-<td>Banking management application with account creation, transactions, deposits, withdrawals and balance tracking.</td>
-<td>Spring Boot • Java • MySQL</td>
+<td>🏥 Pharma ERP System</td>
+<td>Deployed and managed a cloud-based Pharma ERP application with AWS infrastructure, automated deployments, monitoring, and scalable cloud-native architecture.</td>
+<td>AWS • Docker • Kubernetes • Jenkins • Linux</td>
 </tr>
 
 <tr>
-<td>🛍️ <a href="https://github.com/mayurwarungase11/Project-Myntra-Clone">Myntra Clone</a></td>
-<td>Responsive e-commerce frontend inspired by Myntra with product listings and shopping workflow.</td>
-<td>HTML • CSS • JavaScript</td>
+<td>🏦 <a href="https://github.com/mayurwarungase11/Springboot-BankApp">Spring Boot Bank App</a></td>
+<td>Banking management application with account creation, transactions, deposits, withdrawals and balance tracking.</td>
+<td>Spring Boot • Java • MySQL</td>
 </tr>
 
 </table>
