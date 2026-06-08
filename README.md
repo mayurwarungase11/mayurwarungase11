@@ -1,6 +1,13 @@
 # 💫 About Me:
+<br>
 
-<br> My name is Mayur Warungase, and I am from Nashik. I have completed my Bachelor’s degree in Science from Pune University and have 6 months of experience as a DevOps Intern. I have a strong foundation in Linux, including user management, file permissions, process management, cron jobs, and file editing with Vim. I have hands-on experience with AWS core services such as EC2, VPC, IAM, S3, RDS, Route 53, Lambda, CloudWatch, EFS, and CloudFront. I have also worked with tools like Git and GitHub for version control, Docker for containerization, Kubernetes for orchestration, Terraform for infrastructure automation, Jenkins for CI/CD pipelines, and Datadog for monitoring and observability. I am passionate about building efficient, automated, and scalable systems, and I enjoy learning new technologies and applying best practices to improve system reliability.
+Hi, I'm **Mayur Warungase** from Nashik, Maharashtra. I hold a Bachelor's degree in Science from Pune University and have hands-on experience as a **DevOps Intern**.
+
+My primary interests are **Cloud Computing, DevOps, Infrastructure Automation, and Kubernetes**. I enjoy building reliable systems, automating deployments, and improving operational efficiency through modern DevOps practices.
+
+I have practical experience working with **AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, and Datadog**, along with designing CI/CD pipelines and managing cloud infrastructure.
+
+Currently, I am focused on strengthening my expertise in cloud-native technologies, automation, and scalable infrastructure while continuously learning industry best practices in DevOps and Site Reliability Engineering (SRE).
 
 ---
 
