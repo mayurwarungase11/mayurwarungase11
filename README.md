@@ -66,8 +66,7 @@ Currently, I am focused on strengthening my expertise in cloud-native technologi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mayurwarungase11&theme=tokyonight&cache_seconds=86400"/>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=mayurwarungase11&theme=tokyonight)
 </div>
 
 ---
