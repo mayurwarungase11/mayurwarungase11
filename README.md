@@ -5,7 +5,7 @@ Hi, I'm **Mayur Warungase** from Nashik, Maharashtra. I hold a Bachelor's degree
 
 My primary interests are **Cloud Computing, DevOps, Infrastructure Automation, and Kubernetes**. I enjoy building reliable systems, automating deployments, and improving operational efficiency through modern DevOps practices.
 
-I have practical experience working with **AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, and Datadog**, along with designing CI/CD pipelines and managing cloud infrastructure.
+I have practical experience working with **AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git,Prometheus , Grafana and Datadog**, along with designing CI/CD pipelines and managing cloud infrastructure.
 
 Currently, I am focused on strengthening my expertise in cloud-native technologies, automation, and scalable infrastructure while continuously learning industry best practices in DevOps and Site Reliability Engineering (SRE).
 
