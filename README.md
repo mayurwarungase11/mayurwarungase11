@@ -11,7 +11,7 @@ Currently, I am focused on strengthening my expertise in cloud-native technologi
 
 ---
 
-### 🛠️ Tech Stacks
+### 🛠️ Tech Stack
 
 <div align="center">
 
