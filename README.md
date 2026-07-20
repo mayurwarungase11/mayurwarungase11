@@ -3,7 +3,7 @@
 
 Hi, I'm **Mayur Warungase** from Nashik, Maharashtra. I hold a Bachelor's degree in Computer Science from Pune University and have hands-on experience as a **DevOps Intern**.
 
-My primary interests are **Cloud Computing, DevOps, Infrastructure Automation, and Kubernetes**. I enjoy building reliable systems, automating deployments, and improving operational efficiency through modern DevOps practices.
+My primary interest are **Cloud Computing, DevOps, Infrastructure Automation, and Kubernetes**. I enjoy building reliable systems, automating deployments, and improving operational efficiency through modern DevOps practices.
 
 I have practical experience working with **AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, Prometheus , Grafana and Datadog**, along with designing CI/CD pipelines and managing cloud infrastructure.
 
