@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>
 
-Hi, I'm **Mayur Warungase** from Nashik, Maharashtra. I hold a Bachelor's degree in Computer Science from Pune University and have hands-on experience as a **DevOps Intern**.
+Hi, I'm **Mayur Warungase** from Nashik Maharashtra. I hold a Bachelor's degree in Computer Science from Pune University and have hands-on experience as a **DevOps Intern**.
 
 My primary interests are **Cloud Computing, DevOps, Infrastructure Automation, and Kubernetes**. I enjoy building reliable systems, automating deployments, and improving operational efficiency through modern DevOps practices.
 
